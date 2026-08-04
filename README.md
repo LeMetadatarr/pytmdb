@@ -5,9 +5,7 @@
 engine. Extracted from [metadatarr](https://github.com/TigreGotico/metadatarr)'s
 scraper collection into its own standalone package.
 
-NOTE: a real-time query client for this source will be extracted from metadatarr's
-resolver into this package as a follow-up (the "full extraction" step); this package
-currently ships the bulk harvester only.
+Also ships a real-time query client (`from pytmdb import TMDBClient`) alongside the bulk harvesters.
 
 ## Sources
 

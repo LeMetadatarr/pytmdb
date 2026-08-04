@@ -8,4 +8,7 @@ from pytmdb.version import __version__
 
 import pytmdb.harvest  # noqa: F401  (import for @register side effects)
 
-__all__ = ["__version__"]
+from pytmdb.client import TMDBClient
+from pytmdb.models import TMDBMovie
+
+__all__ = ["__version__", "TMDBClient", "TMDBMovie"]
