@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.0a3](https://github.com/LeMetadatarr/pytmdb/tree/0.1.0a3) (2026-08-14)
+
+[Full Changelog](https://github.com/LeMetadatarr/pytmdb/compare/0.1.0a2...0.1.0a3)
+
+**Merged pull requests:**
+
+- docs: add dataset documentation [\#2](https://github.com/LeMetadatarr/pytmdb/pull/2) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.1.0a2](https://github.com/LeMetadatarr/pytmdb/tree/0.1.0a2) (2026-08-04)
 
 [Full Changelog](https://github.com/LeMetadatarr/pytmdb/compare/4f47ff8ad6cae1a23987bf966af736aee4a1b9fa...0.1.0a2)
